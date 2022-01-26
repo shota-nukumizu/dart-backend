@@ -31,6 +31,13 @@ Future main() async {
 }
 ```
 
+最後に以下のコマンドを入力すれば開発者サーバを立ち上げられる。
+
+```
+$ cd api
+$ dart main.dart
+```
+
 # 開発環境
 
 * Visual Studio Code 1.63
